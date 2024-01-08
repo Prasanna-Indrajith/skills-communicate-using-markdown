@@ -15,3 +15,11 @@ const userRegister = (dataArray) => {
   createUser(dataArray);
 }
 ```
+
+### Examples for database services
+
+- [ ] Oracal
+- [x] Microsoft Azure
+- [x] Amazon DynamoDB
+- [x] MongoDB Atlas
+- [ ] Google Cloud SQL 
